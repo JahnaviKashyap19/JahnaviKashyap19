@@ -2,9 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavikashyap19&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavikashyap19" /> </p>
 <p align="center"> <img src="https://github.com/JahnaviKashyap19/JahnaviKashyap19/blob/main/Banner.gif" alt="jahnavikashyap19" /> </p>
 <h1 align="left">About Me👩‍💻</h1>
-<p> 🎓 I am studying Computer Science and Engineering at National Institute of Technology, Meghalaya<br>
-  📖 I’m currently learning <b>Javascript,ReactJS and Data Structures and Algorithmns</b><br>
-  📫 You can reach me at <b>kashyapjahnavi2018@gmail.com</b></p>
+<p>
+ <ul>
+  <li> 🎓  I am studying Computer Science and Engineering at National Institute of Technology, Meghalaya</li>
+  <li> 📖  I’m currently learning <b>Javascript,ReactJS and Data Structures and Algorithmns</b></li>
+  <li> 📫  You can reach me at <b>kashyapjahnavi2018@gmail.com</b></li>
+ </ul>
+ </p>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
