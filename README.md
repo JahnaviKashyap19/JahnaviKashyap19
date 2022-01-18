@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Kashyap</h1>
-<h3 align="center">I am a pre-final year CSE student</h3>
+<h3 align="center">I am a junior year CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavikashyap19&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavikashyap19" /> </p>
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+- 🌱 I’m currently learning **Javascript,ReactJS and Data Structures and Algorithmns**
 
 - 📫 How to reach me **kashyapjahnavi2018@gmail.com**
 
