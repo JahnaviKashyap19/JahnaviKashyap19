@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavikashyap19&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavikashyap19" /> </p>
 <p align="center"> <img src="https://github.com/JahnaviKashyap19/JahnaviKashyap19/blob/main/Banner.gif" alt="jahnavikashyap19" /> </p>
 <h1 align="left">About Me👩‍💻</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <p>
  <ul>
   <li> 🎓  I am studying Computer Science and Engineering at National Institute of Technology, Meghalaya</li>
