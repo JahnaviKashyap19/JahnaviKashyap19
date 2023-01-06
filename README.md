@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
 <p>
  <ul>
-  <li> 🎓  I am studying Computer Science and Engineering at National Institute of Technology, Meghalaya</li>
-  <li> 📖  I’m currently learning <b>Javascript,ReactJS and Data Structures and Algorithmns</b></li>
+  <li> 🎓  I am currently an undergraduate student studying Computer Science and Engineering at the National Institute of Technology Meghalaya. I am particularly interested in Frontend Web Development, and enjoy utilizing my skills in problem-solving and data structures and algorithms.</li>
+  <li> 📖  I’m currently learning <b>Python and Machine Learning </b></li>
   <li> 📫  You can reach me at <b>kashyapjahnavi2018@gmail.com</b></li>
  </ul>
  </p>
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jahnavi-kashyap-b2a2291a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahnavi-kashyap-b2a2291a8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jahnavi-kashyap-b2a2291a8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jahnavi-kashyap-b2a2291a8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kshyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kshyp" height="30" width="40" /></a>
 </p>
 
